@@ -12,3 +12,7 @@
    - Jest
    - Jwtwebtoken
    - Bcryptjs
+
+<h2>Instalação da ferramentas</h2>
+
+<p>link: https://www.notion.so/Instala-o-das-ferramentas-e5daec61d6a74da19486ad862027529e</p>
