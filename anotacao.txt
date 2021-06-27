@@ -1,0 +1,35 @@
+/***
+ * GET - BUSCAR UMA INFO
+ * POST - INSERIR UMA INFO
+ * PUT - ALTERAR UMA INFO
+ * DELETE - REMOVER UMA INFO
+ * PATCH - ALTERAR UMA INFO ESPECIFICA
+ */
+
+/**
+ * TIPOS DE PARÂMETROS 
+ * ROUTES PARAMS - http://localhost:300/produtos/id
+ * QUERY PARAMS - http://localhost:300/produtos?name=teclado$description=tecladobom
+ * BODY PARAMS -    SÃO INSERIDOS NO CORPO DA REQUISIÇÃO
+ */
+
+
+//yarn add @types/express, para baixar tipagem da biblioteca
+//@types/express
+const app = express();
+
+//definindo a porta de acesso
+//http:localhost:3000
+app.listen(3000,()=>console.log('Server is running'));
+
+MIGRATIONS
+
+ORM
+
+Server > routes > controller > Service
+
+middleware
+
+jwt
+
+express
