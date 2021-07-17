@@ -1,6 +1,5 @@
   <h3 align="center">🚀NLW Valoriza🚀</h3>
   
-  ![image](https://user-images.githubusercontent.com/63478331/123519273-888c8300-d680-11eb-8b78-48717ba6653d.png)
 
 ## ✨ Tecnologias
 
